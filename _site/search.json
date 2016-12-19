@@ -1,0 +1,776 @@
+[
+
+
+
+
+{
+"title": "Account Access",
+"tags": "account_access",
+"keywords": "account access login",
+"url": "acctaccess_accessing.html",
+"summary": "Logging into your TAP account"
+},
+
+
+
+{
+"title": "Platform Administration",
+"tags": "Platform Administration",
+"keywords": "platform administration - inviting users",
+"url": "administration_inviteusers.html",
+"summary": "Insert the summary paragraph here.  To edit the summary you must edit the meta data for this post."
+},
+
+
+
+{
+"title": "Platform Administration",
+"tags": "Platform Administration",
+"keywords": "platform administration",
+"url": "administration_manageorgsusers.html",
+"summary": "Insert the summary paragraph here.  To edit the summary you must edit the meta data for this post."
+},
+
+
+
+{
+"title": "Application Deployment",
+"tags": "Application Development",
+"keywords": "binding applications to services application deployment on TAP",
+"url": "appdev_bindingapps.html",
+"summary": "Insert the summary paragraph here.  To edit the summary you must edit the meta data for this post."
+},
+
+
+
+{
+"title": "Application Deployment",
+"tags": "Application Deployment",
+"keywords": "application deployment on TAP",
+"url": "appdev_deployapp.html",
+"summary": "Insert the summary paragraph here.  To edit the summary you must edit the meta data for this post."
+},
+
+
+
+{
+"title": "Application Deployment",
+"tags": "Application Development",
+"keywords": "sharing applications in the TAP marketplace",
+"url": "appdev_sharingapps.html",
+"summary": "Insert the summary paragraph here.  To edit the summary you must edit the meta data for this post."
+},
+
+
+
+{
+"title": "Application Deployment",
+"tags": "Application Deployment",
+"keywords": "tips and tricks for java application deployment on TAP",
+"url": "appdev_tipstricks.html",
+"summary": "Insert the summary paragraph here.  To edit the summary you must edit the meta data for this post."
+},
+
+
+
+{
+"title": "Building Analytics",
+"tags": "Building Analytics",
+"keywords": "building analytics on TAP",
+"url": "buildanalytics_h2o.html",
+"summary": "Insert the summary paragraph here.  To edit the summary you must edit the meta data for this post."
+},
+
+
+
+{
+"title": "Building Analytics",
+"tags": "Building Analytics",
+"keywords": "building analytics on TAP",
+"url": "buildanalytics_scikitlearn.html",
+"summary": "Insert the summary paragraph here.  To edit the summary you must edit the meta data for this post."
+},
+
+
+
+{
+"title": "Building Analytics",
+"tags": "Building Analytics",
+"keywords": "building analytics on TAP",
+"url": "buildanalytics_sparktk.html",
+"summary": "Insert the summary paragraph here.  To edit the summary you must edit the meta data for this post."
+},
+
+
+
+{
+"title": "Contributing to TAP",
+"tags": "Contributing",
+"keywords": "contributing to tap add new components",
+"url": "contributing_addnew.html",
+"summary": "Insert the summary paragraph here.  To edit the summary you must edit the meta data for this post."
+},
+
+
+
+{
+"title": "Contributing to TAP",
+"tags": "Contributing",
+"keywords": "contributing to tap application development",
+"url": "contributing_appdev.html",
+"summary": "Insert the summary paragraph here.  To edit the summary you must edit the meta data for this post."
+},
+
+
+
+{
+"title": "Contributing to TAP",
+"tags": "Contributing",
+"keywords": "contributing to tap architecture",
+"url": "contributing_architecture.html",
+"summary": "Insert the summary paragraph here.  To edit the summary you must edit the meta data for this post."
+},
+
+
+
+{
+"title": "Contributing to TAP",
+"tags": "Contributing",
+"keywords": "contributing to tap console design doc",
+"url": "contributing_consoledesign.html",
+"summary": "Insert the summary paragraph here.  To edit the summary you must edit the meta data for this post."
+},
+
+
+
+{
+"title": "Contributing to TAP",
+"tags": "Contributing",
+"keywords": "contributing to tap development environment setup",
+"url": "contributing_devenvironment.html",
+"summary": "Insert the summary paragraph here.  To edit the summary you must edit the meta data for this post."
+},
+
+
+
+{
+"title": "Contributing to TAP",
+"tags": "Contributing",
+"keywords": "contributing to tap development guidelines",
+"url": "contributing_devguidelines.html",
+"summary": "Insert the summary paragraph here.  To edit the summary you must edit the meta data for this post."
+},
+
+
+
+{
+"title": "Contributing to TAP",
+"tags": "Contributing",
+"keywords": "contributing to tap kerberos authentication",
+"url": "contributing_kerberosauth.html",
+"summary": "Insert the summary paragraph here.  To edit the summary you must edit the meta data for this post."
+},
+
+
+
+{
+"title": "Data Ingestion",
+"tags": "Data Ingestion",
+"keywords": "TAP data ingestion",
+"url": "dataingest_datacatalog.html",
+"summary": "Insert the summary paragraph here.  To edit the summary you must edit the meta data for this post."
+},
+
+
+
+{
+"title": "Data Ingestion",
+"tags": "Data Ingestion",
+"keywords": "TAP data ingestion sql import",
+"url": "dataingest_sqlimport.html",
+"summary": "Insert the summary paragraph here.  To edit the summary you must edit the meta data for this post."
+},
+
+
+
+{
+"title": "Data Ingestion",
+"tags": "Data Ingestion",
+"keywords": "TAP data ingestion sql import scheduler",
+"url": "dataingest_sqlimport_scheduler.html",
+"summary": "Insert the summary paragraph here.  To edit the summary you must edit the meta data for this post."
+},
+
+
+
+{
+"title": "TAP Platform Deployment",
+"tags": "Platform Deployment",
+"keywords": "platform deployment building artifacts from sources",
+"url": "deployment_buildfromsources.html",
+"summary": "Insert the summary paragraph here.  To edit the summary you must edit the meta data for this post."
+},
+
+
+
+{
+"title": "TAP Platform Deployment",
+"tags": "Platform Deployment",
+"keywords": "platform deployment migrating data",
+"url": "deployment_migratedata.html",
+"summary": "Insert the summary paragraph here.  To edit the summary you must edit the meta data for this post."
+},
+
+
+
+{
+"title": "TAP Platform Deployment",
+"tags": "Platform Deployment",
+"keywords": "platform deployment",
+"url": "deployment_overview.html",
+"summary": "Insert the summary paragraph here.  To edit the summary you must edit the meta data for this post."
+},
+
+
+
+{
+"title": "TAP Platform Deployment",
+"tags": "Platform Deployment",
+"keywords": "platform deployment post deployment tests",
+"url": "deployment_postdeploytests.html",
+"summary": "Insert the summary paragraph here.  To edit the summary you must edit the meta data for this post."
+},
+
+
+
+{
+"title": "TAP Platform Deployment",
+"tags": "Platform Deployment",
+"keywords": "platform deployment procedures",
+"url": "deployment_procedures.html",
+"summary": "Insert the summary paragraph here.  To edit the summary you must edit the meta data for this post."
+},
+
+
+
+{
+"title": "TAP Platform Deployment",
+"tags": "Platform Deployment",
+"keywords": "platform deployment procedures on aws",
+"url": "deployment_procedures_aws.html",
+"summary": "Insert the summary paragraph here.  To edit the summary you must edit the meta data for this post."
+},
+
+
+
+{
+"title": "TAP Platform Deployment",
+"tags": "Platform Deployment",
+"keywords": "platform deployment procedures on baremetal",
+"url": "deployment_procedures_baremetal.html",
+"summary": "Insert the summary paragraph here.  To edit the summary you must edit the meta data for this post."
+},
+
+
+
+{
+"title": "TAP Platform Deployment",
+"tags": "Platform Deployment",
+"keywords": "platform deployment source binaries",
+"url": "deployment_sourcesbinaries.html",
+"summary": "Insert the summary paragraph here.  To edit the summary you must edit the meta data for this post."
+},
+
+
+
+{
+"title": "Dataset Reader",
+"tags": "examples",
+"keywords": "dataset reader example",
+"url": "https:community.trustedanalytics.orgdocsDOC-1042",
+"summary": "Insert the summary paragraph here."
+},
+
+
+
+{
+"title": "Example Data Ingestion Using Kafka",
+"tags": "examples",
+"keywords": "TAP data ingestion using kafka",
+"url": "examples_dataingestkafka.html",
+"summary": "Insert the summary paragraph here.  To edit the summary you must edit the meta data for this post."
+},
+
+
+
+{
+"title": "Example Enabling IOT",
+"tags": "examples",
+"keywords": "TAP enabling IOT",
+"url": "examples_enableiot.html",
+"summary": "Insert the summary paragraph here.  To edit the summary you must edit the meta data for this post."
+},
+
+
+
+{
+"title": "Space Shuttle Example - Streaming Data",
+"tags": "examples",
+"keywords": "TAP streaming data use case example",
+"url": "examples_spaceshuttle.html",
+"summary": "Insert the summary paragraph here.  To edit the summary you must edit the meta data for this post."
+},
+
+
+
+
+
+{
+"title": "TAP Documentation",
+"tags": "Overview",
+"keywords": "Trusted Analytics Platform",
+"url": "index.html",
+"summary": "Welcome to the Trusted Analytics Platform version 0.8 technical documentation. For simpler instructions on how to use TAP please visit our community site using the link in the header."
+},
+
+
+
+{
+"title": "Integration",
+"tags": "Integration",
+"keywords": "TAP rest apis integration",
+"url": "integration_restapis.html",
+"summary": "Insert the summary paragraph here.  To edit the summary you must edit the meta data for this post."
+},
+
+
+
+{
+"title": "Marketplace",
+"tags": "Marketplace",
+"keywords": "TAP marketplace creating a service instance",
+"url": "marketplace_createinstance.html",
+"summary": "Insert the summary paragraph here.  To edit the summary you must edit the meta data for this post."
+},
+
+
+
+{
+"title": "Marketplace",
+"tags": "Marketplace",
+"keywords": "TAP marketplace available services",
+"url": "marketplace_services.html",
+"summary": "Insert the summary paragraph here.  To edit the summary you must edit the meta data for this post."
+},
+
+
+
+{
+"title": "Model Publishing",
+"tags": "Model Publishing",
+"keywords": "publishing models on TAP - mar format",
+"url": "models_marformat.html",
+"summary": "Insert the summary paragraph here.  To edit the summary you must edit the meta data for this post."
+},
+
+
+
+{
+"title": "Model Publishing",
+"tags": "Model Publishing",
+"keywords": "publishing models on TAP",
+"url": "models_newpages.html",
+"summary": "Insert the summary paragraph here.  To edit the summary you must edit the meta data for this post."
+},
+
+
+
+{
+"title": "Scroll layout",
+"tags": "special_layouts",
+"keywords": "json, scrolling, scrollto, jquery plugin",
+"url": "jsmydoc_scroll.html",
+"summary": "This page demonstrates how you the integration of a script called ScrollTo, which is used here to link definitions of a JSON code sample to a list of definitions for that particular term. The scenario here is that the JSON blocks are really long, with extensive nesting and subnesting, which makes it difficult for tables below the JSON to adequately explain the term in a usable way."
+},
+
+
+
+{
+"title": "Scroll layout",
+"tags": "special_layouts",
+"keywords": "json, scrolling, scrollto, jquery plugin",
+"url": "mydoc_scroll.html",
+"summary": "This page demonstrates how you the integration of a script called ScrollTo, which is used here to link definitions of a JSON code sample to a list of definitions for that particular term. The scenario here is that the JSON blocks are really long, with extensive nesting and subnesting, which makes it difficult for tables below the JSON to adequately explain the term in a usable way."
+},
+
+
+
+{
+"title": "Shuffle layout",
+"tags": "special_layouts",
+"keywords": "shuffle, card layout, dynamic grid, doc portal, support portal",
+"url": "mydoc_shuffle.html",
+"summary": "This layout shows an example of a knowledge-base style navigation system, where there is no hierarchy, just groups of pages that have certain tags."
+},
+
+
+
+{
+"title": "News",
+"tags": "",
+"keywords": "news, blog, updates, release notes, announcements",
+"url": "news.html",
+"summary": ""
+},
+
+
+
+{
+"title": "News",
+"tags": "",
+"keywords": "news, blog, updates, release notes, announcements",
+"url": "news_archive.html",
+"summary": ""
+},
+
+
+
+{
+"title": "Product 1",
+"tags": "",
+"keywords": "mydoc",
+"url": "p1_landing_page.html",
+"summary": ""
+},
+
+
+
+{
+"title": "Sample 1 Topic (Product 1)",
+"tags": "",
+"keywords": "sample",
+"url": "p1_sample1.html",
+"summary": "This is just a sample topic..."
+},
+
+
+
+{
+"title": "Sample 2 Topic (Product 1)",
+"tags": "",
+"keywords": "sample",
+"url": "p1_sample2.html",
+"summary": "This is just a sample topic..."
+},
+
+
+
+{
+"title": "Sample 3 Topic (Product 1)",
+"tags": "",
+"keywords": "sample",
+"url": "p1_sample3.html",
+"summary": "This is just a sample topic..."
+},
+
+
+
+{
+"title": "Sample 4 Topic (Product 1)",
+"tags": "",
+"keywords": "sample",
+"url": "p1_sample4.html",
+"summary": "This is just a sample topic..."
+},
+
+
+
+{
+"title": "Sample 5 Topic (Product 1)",
+"tags": "",
+"keywords": "sample",
+"url": "p1_sample5.html",
+"summary": "This is just a sample topic..."
+},
+
+
+
+{
+"title": "Sample 6 Topic (Product 1)",
+"tags": "",
+"keywords": "sample",
+"url": "p1_sample6.html",
+"summary": "This is just a sample topic..."
+},
+
+
+
+{
+"title": "Sample 7 Topic (Product 1)",
+"tags": "",
+"keywords": "sample",
+"url": "p1_sample7.html",
+"summary": "This is just a sample topic..."
+},
+
+
+
+{
+"title": "Product 2",
+"tags": "",
+"keywords": "mydoc",
+"url": "p2_landing_page.html",
+"summary": ""
+},
+
+
+
+{
+"title": "Sample 1 Topic",
+"tags": "",
+"keywords": "sample",
+"url": "p2_sample1.html",
+"summary": "This is just a sample topic..."
+},
+
+
+
+{
+"title": "Sample 10 Topic",
+"tags": "",
+"keywords": "sample",
+"url": "p2_sample10.html",
+"summary": "This is just a sample topic..."
+},
+
+
+
+{
+"title": "Sample 11 Topic",
+"tags": "",
+"keywords": "sample",
+"url": "p2_sample11.html",
+"summary": "This is just a sample topic..."
+},
+
+
+
+{
+"title": "Sample 12 Topic",
+"tags": "",
+"keywords": "sample",
+"url": "p2_sample12.html",
+"summary": "This is just a sample topic..."
+},
+
+
+
+{
+"title": "Sample 13 Topic",
+"tags": "",
+"keywords": "sample",
+"url": "p2_sample13.html",
+"summary": "This is just a sample topic..."
+},
+
+
+
+{
+"title": "Sample 14 Topic",
+"tags": "",
+"keywords": "sample",
+"url": "p2_sample14.html",
+"summary": "This is just a sample topic..."
+},
+
+
+
+{
+"title": "Sample 2 Topic",
+"tags": "",
+"keywords": "sample",
+"url": "p2_sample2.html",
+"summary": "This is just a sample topic..."
+},
+
+
+
+{
+"title": "Sample 3 Topic",
+"tags": "",
+"keywords": "sample",
+"url": "p2_sample3.html",
+"summary": "This is just a sample topic..."
+},
+
+
+
+{
+"title": "Sample 4 Topic",
+"tags": "",
+"keywords": "sample",
+"url": "p2_sample4.html",
+"summary": "This is just a sample topic..."
+},
+
+
+
+{
+"title": "Sample 5 Topic",
+"tags": "",
+"keywords": "sample",
+"url": "p2_sample5.html",
+"summary": "This is just a sample topic..."
+},
+
+
+
+{
+"title": "Sample 6 Topic",
+"tags": "",
+"keywords": "sample",
+"url": "p2_sample6.html",
+"summary": "This is just a sample topic..."
+},
+
+
+
+{
+"title": "Sample 7 Topic",
+"tags": "",
+"keywords": "sample",
+"url": "p2_sample7.html",
+"summary": "This is just a sample topic..."
+},
+
+
+
+{
+"title": "Sample 8 Topic",
+"tags": "",
+"keywords": "sample",
+"url": "p2_sample8.html",
+"summary": "This is just a sample topic..."
+},
+
+
+
+{
+"title": "Sample 9 Topic",
+"tags": "",
+"keywords": "sample",
+"url": "p2_sample9.html",
+"summary": "This is just a sample topic..."
+},
+
+
+
+
+
+{
+"title": "TAP Reference Documents",
+"tags": "Reference",
+"keywords": "TAP CLI reference documents",
+"url": "reference_cli.html",
+"summary": "Insert the summary paragraph here.  To edit the summary you must edit the meta data for this post."
+},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
+"title": "Troubleshooting",
+"tags": "troubleshooting",
+"keywords": "troubleshooting TAP components and versions",
+"url": "troubleshoot_components.html",
+"summary": "Insert the summary paragraph here.  To edit the summary you must edit the meta data for this post."
+},
+
+
+
+{
+"title": "Troubleshooting",
+"tags": "Troubleshooting",
+"keywords": "troubleshooting TAP",
+"url": "troubleshoot_faqs.html",
+"summary": "Insert the summary paragraph here.  To edit the summary you must edit the meta data for this post."
+},
+
+
+
+{
+"title": "Troubleshooting",
+"tags": "Troubleshooting",
+"keywords": "troubleshooting TAP system logs",
+"url": "troubleshoot_systemlogs.html",
+"summary": "Insert the summary paragraph here.  To edit the summary you must edit the meta data for this post."
+},
+
+
+
+
+
+{
+"title": "Sample post",
+"tags": "newsgetting_started",
+"keywords": "",
+"url": "/samplepost.html",
+"summary": "This is some summary frontmatter for my sample post."
+}
+,
+
+
+{
+"title": "Welcome to Jekyll!",
+"tags": "news",
+"keywords": "",
+"url": "/myupdate.html",
+"summary": ""
+}
+,
+
+
+{
+"title": "Test post from last year",
+"tags": "news",
+"keywords": "",
+"url": "/test-post-from-last-year.html",
+"summary": ""
+}
+
+
+
+]

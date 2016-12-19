@@ -1,0 +1,20 @@
+## Topnav single links
+## if you want to list an external url, use external_url instead of url. the theme will apply a different link base.
+topnav:
+- title: Topnav
+  items:
+    - title: Community
+      url: https://community.trustedanalytics.org/welcome
+
+#Topnav dropdowns
+topnav_dropdowns:
+- title: Topnav dropdowns
+  folders:
+    - title: Previous Releases
+      folderitems:
+        - title: 0.8 (Latest)
+          url: https://docstarter.herokuapp.com/index.html
+        - title: 0.7
+          url: https://github.com/trustedanalytics/platform-wiki-0.7/wiki
+        - title: 0.6
+          external_url: https://github.com/trustedanalytics/platform-wiki-0.6/wiki
