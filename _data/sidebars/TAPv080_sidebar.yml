@@ -58,7 +58,7 @@ entries:
     output: web, pdf
     folderitems:
     - title: Data Catalog
-      url: /dataingestion/dataingest_datacatalog.html
+      url: /DataIngestion/dataingest_datacatalog.html
       output: web, pdf
       
       subfolders:
