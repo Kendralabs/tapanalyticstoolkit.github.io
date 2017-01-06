@@ -3,7 +3,7 @@ title: TAP Documentation
 keywords: Trusted Analytics Platform
 tags:
   - Overview
-sidebar: mydoc_sidebar
+sidebar: TAPv080_sidebar
 permalink: index.html
 summary: >-
   Welcome to the Trusted Analytics Platform version 0.8 technical documentation.
