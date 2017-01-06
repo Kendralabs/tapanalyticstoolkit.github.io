@@ -1,14 +1,11 @@
 {% if page.sidebar == "home_sidebar" %}
 {% assign sidebar = site.data.sidebars.home_sidebar.entries %}
 
-{% elsif page.sidebar == "product1_sidebar" %}
-{% assign sidebar = site.data.sidebars.product1_sidebar.entries %}
+{% elsif page.sidebar == "TAPv080_sidebar" %}
+{% assign sidebar = site.data.sidebars.TAPv080_sidebar.entries %}
 
-{% elsif page.sidebar == "product2_sidebar" %}
-{% assign sidebar = site.data.sidebars.product2_sidebar.entries %}
-
-{% elsif page.sidebar == "mydoc_sidebar" %}
-{% assign sidebar = site.data.sidebars.mydoc_sidebar.entries %}
+{% elsif page.sidebar == "TAPv090_sidebar" %}
+{% assign sidebar = site.data.sidebars.TAPv090_sidebar.entries %}
 
 {% else %}
 {% assign sidebar = site.data.sidebars.home_sidebar.entries %}
@@ -20,14 +17,10 @@
 sidebar configuration for print files
 {% endcomment %}
 
-{% if site.product == "mydoc" %}
-{% assign sidebar_pdf = site.data.sidebars.mydoc_sidebar.entries %}
+{% if site.product == "TAPv080" %}
+{% assign sidebar_pdf = site.data.sidebars.TAPv080_sidebar.entries %}
 {% endif %}
 
-{% if site.product == "product1" %}
-{% assign sidebar_pdf = site.data.sidebars.product1_sidebar.entries %}
-{% endif %}
-
-{% if site.product == "product2" %}
-{% assign sidebar_pdf = site.data.sidebars.product2_sidebar.entries %}
+{% if site.product == "TAPv090" %}
+{% assign sidebar_pdf = site.data.sidebars.TAPv090_sidebar.entries %}
 {% endif %}
