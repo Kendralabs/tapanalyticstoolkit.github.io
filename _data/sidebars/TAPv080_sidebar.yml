@@ -1,0 +1,213 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: sidebar
+  product: Version
+  version: 0.8
+  folders:
+  
+  - title:
+    output: pdf
+    type: frontmatter
+    folderitems:
+    - title:
+      url: /titlepage
+      output: pdf
+      type: frontmatter
+    - title:
+      url: /tocpage
+      output: pdf
+      type: frontmatter
+      
+  - title: Use Case Examples
+    output: web, pdf
+    folderitems:
+    
+    - title: Dataset Reader
+      external_url: https://community.trustedanalytics.org/docs/DOC-1042
+      output: web, pdf
+    - title: Space Shuttle
+      url: /examples_spaceshuttle.html
+      output: web, pdf
+    - title: Data Ingestion Through Kafka
+      url: /examples_dataingestkafka.html
+      output: web, pdf
+      
+    - title: Enable IOT
+      url: /examples_enableiot.html
+      output: web, pdf
+      
+  - title: Account Access
+    output: web, pdf
+    
+    folderitems:
+    - title: Accessing Your Account
+      url: /acctaccess_accessing.html
+      output: web, pdf
+  - title: Marketplace
+    output: web, pdf
+    folderitems:
+    - title: Creating a Service Instance
+      url: /marketplace_createinstance.html
+      output: web, pdf
+    - title: Services Available
+      url: /marketplace_services.html
+      output: web, pdf
+      
+  - title: Data Ingestion
+    output: web, pdf
+    folderitems:
+    - title: Data Catalog
+      url: /dataingest_datacatalog.html
+      output: web, pdf
+      
+      subfolders:
+      - title: SQL Import Pages
+        output: web, pdf  
+        subfolderitems:
+          
+        - title: SQL Import Scheduler
+          url: /dataingest_sqlimport_scheduler.html
+          output: web, pdf
+          
+  - title: Building Analytics
+    output: web, pdf
+    folderitems:
+    - title: SparkTK 
+      url: /buildanalytics_sparktk.html
+      output: web, pdf
+    - title: H2O Integration with TAP
+      url: /buildanalytics_h2o.html
+      output: web, pdf
+    - title: Sci-kit Learn Intesgration with TAP
+      url: /buildanalytics_scikitlearn.html
+      output: web, pdf
+  - title: Model Publishing
+    output: web, pdf
+    folderitems:
+    - title: New pages
+      url: /models_newpages.html
+      output: web, pdf
+    - title: MAR File Format
+      url: /models_marformat.html
+      output: web, pdf
+  - title: TAP Integration
+    output: web, pdf
+    folderitems:
+    - title: REST APIs
+      url: /integration_restapis.html
+      output: web, pdf
+  - title: Application Deployment
+    output: web, pdf
+    folderitems:
+    - title: Deploying your First Application
+      url: /appdev_deployapp.html
+      output: web, pdf
+    - title: Tips and Tricks for Java
+      url: /appdev_tipstricks.html
+      output: web, pdf
+    - title: Binding Apps to Services
+      url: /appdev_bindingapps.html
+      output: web, pdf
+    - title: Sharing Apps
+      url: /appdev_sharingapps.html
+      output: web, pdf
+      
+  - title: Troubleshooting
+    output: web, pdf
+    folderitems:
+    - title: FAQs
+      url: /troubleshoot_faqs.html
+      output: web, pdf
+      
+    - title: System Logs
+      url: /troubleshoot_systemlogs.html
+      output: web, pdf
+      
+    - title: Components and versions
+      url: /troubleshoot_components.html
+      output: web, pdf 
+      
+    - title: Community Support
+      external_url: https://community.trustedanalytics.org/community/TAP-support
+      output: web, pdf 
+   
+  - title: Platform Administration
+    output: web, pdf
+    
+    folderitems:
+    - title: Managing Orgs and Users
+      url: /administration_manageorgsusers.html
+      output: web, pdf
+      
+    - title: Inviting User to a TAP Instance
+      url: /administration_inviteusers.html
+      output: web, pdf
+      
+  - title: TAP Platform Deployment
+    output: web, pdf
+    
+    folderitems:
+    - title: Deployment Overview
+      url: /deployment_overview.html
+      output: web
+      
+    - title: TAP Sources and Binaries
+      url: /deployment_sourcesbinaries.html
+      output: web
+      subfolders:
+      - title: Deployment Procedures
+        output: web
+        subfolderitems:
+
+        - title: Platform Deployment on AWS
+          url: /deployment_procedures_aws.html
+          output: web
+      
+        - title: Platform Deployment on Baremetal
+          url: /deployment_procedures_baremetal.html
+          output: web
+      
+    - title: Building Artifacts from Sources
+      url: /deployment_buildfromsources.html
+      output: web
+      
+    - title: Post Deployment Tests
+      url: /deployment_postdeploytests.html
+      output: web
+      
+    - title: Migrating Data from 0.7 to 0.8
+      url: /deployment_migratedata.html
+      output: web
+  
+  - title: TAP Reference Docs
+    output: web, pdf
+    
+    folderitems:
+    - title: TAP CLI Reference Page
+      url: /reference_cli.html
+      output: web
+      
+  - title: Contributing to TAP
+    output: web, pdf
+    
+    folderitems:
+    - title: Application Development
+      url: /contributing_appdev.html
+      output: web
+      
+    - title: Development Environment Setup
+      url: /contributing_devenvironment.html
+      output: web
+     
+    - title: Adding New Components to TAP Deployment
+      url: /contributing_addnew.html
+      output: web
+      
+    - title: Console Design
+      url: /contributing_consoledesign.html
+      output: web
+      
+    - title: TAP Architecture
+      url: /contributing_architecture.html
+      output: web
