@@ -11,9 +11,17 @@ folder: TAPv080/DataIngestion
 published: true
 ---
 
-## Data Catalog
+## Importing Data to TAP Using the Data Catalog
+1.  From the TAP Console, select **Data Catalog** from the main menu then select the tab **Submit Transfer**.
+![Ingesting Data Screen 1](/images/dataingest_datacatingest_screen1.jpg)
+1.	Choose **Link** to input a URL to a data set _or_ **Local Path** to activate a “Choose File” file browse button, which opens your local file directory browser.  _The upload button will not be active until a file has been chosen or a URL provided._
+![Ingesting Data Screen 2](/images/dataingest_datacatingest_screen2.jpg)
+1.	Enter a title in the form field labeled “title” _The upload button will not be active until a title has been provided._ 
+1.	Select a category to help others find your data easily. (**Other** is the default.)
+1.	Select the **Upload button**.
+It may take 30 seconds to a couple of minutes, depending on the size of the data file you are ingesting. Your data set will now be listed in the **Data Catalog>Data sets** tab.
+![Ingesting Data Screen 3](/images/dataingest_datacatingest_screen3.jpg)
 
-Insert content here: [http://idratherbewriting.com](http://idratherbewriting.com). Use Markdown format.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+##Importing Options
+TAP provides multiple options for data ingestion including the [Import from Amazon S3](Data_Catalog_Downld_S3.md), [DAS (Data Acquisition Service)](Data_Acquisition.md), [SQL Import Scheduler](dataingest_sqlimport_scheduler.md), and streaming data [using Gearpump](dataingest_streamgearpump.md).  Please visit our [community site](http://community.trustedanalytics.org) for added insights into using TAP and for asking questions.
 
