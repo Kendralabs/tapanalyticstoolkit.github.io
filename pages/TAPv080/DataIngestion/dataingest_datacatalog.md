@@ -6,7 +6,7 @@ tags:
   - Data Ingestion
 summary: Insert the summary paragraph here.  To edit the summary you must edit the meta data for this post. 
 sidebar: TAPv080_sidebar
-permalink: dataingest_datacatalog.html
+permalink: /DataIngestion/dataingest_datacatalog.html
 folder: TAPv080/DataIngestion
 published: true
 ---
