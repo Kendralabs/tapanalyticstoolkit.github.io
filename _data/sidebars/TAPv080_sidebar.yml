@@ -58,7 +58,7 @@ entries:
     output: web, pdf
     folderitems:
     - title: Data Catalog
-      url: /dataingest_datacatalog.html
+      url: /dataingestion/dataingest_datacatalog.html
       output: web, pdf
       
       subfolders:
@@ -67,7 +67,7 @@ entries:
         subfolderitems:
           
         - title: SQL Import Scheduler
-          url: /dataingest_sqlimport_scheduler.html
+          url: /dataingestion/dataingest_sqlimport_scheduler.html
           output: web, pdf
           
   - title: Building Analytics
