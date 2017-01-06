@@ -4,6 +4,7 @@ keywords: platform administration - inviting users
 last_updated: 'October, 2016'
 tags:
   - Platform Administration
+  - Inviting Users
 summary: Insert the summary paragraph here.  To edit the summary you must edit the meta data for this post. 
 sidebar: TAPv080_sidebar
 permalink: administration_inviteusers.html
