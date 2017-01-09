@@ -10,7 +10,6 @@ summary: >-
   For simpler instructions on how to use TAP please visit our community site
   using the link in the header.
 published: true
-toc: true
 ---
 
 ## Overview
