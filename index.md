@@ -10,7 +10,7 @@ summary: >-
   For simpler instructions on how to use TAP please visit our community site
   using the link in the header.
 published: true
-toc: false
+toc: true
 ---
 
 ## Overview
@@ -25,8 +25,7 @@ You can find a short list of exciting additions and known bugs for the latest re
 
 ##  Getting Started and FAQ's
 
-Jump right in by trying one of our use case examples, or visit our [community site]
-(https://community.trustedanalytics.org/welcome) for workshops, tutorials and FAQ's that will help you through the TAP workflow.
+Jump right in by trying one of our use case examples, or visit our [community site](https://community.trustedanalytics.org/welcome) for workshops, tutorials and FAQ's that will help you through the TAP workflow.
 
 ## UI Walkthrough
 
