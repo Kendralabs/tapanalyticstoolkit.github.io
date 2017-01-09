@@ -33,7 +33,7 @@ TAP includes an intuitive user interface carefully designed around a data scienc
 
 |  |  |
 |-------|--------|
-| **Services Marketplace:** The Trusted Analytics Platform offers a variety of services for optimized cloud computing. Services include software to enable data analytics, app development and reliable system monitoring. | <img src="/images/UI_marketplace_900x.gif" width="500px"> |
+| **Services Marketplace:** The Trusted Analytics Platform offers a variety of services for optimized cloud computing. Services include software to enable data analytics, app development and reliable system monitoring. | <img src="/images/UI_marketplace_900x.gif" width="300px"> |
 | ![](/images/UI_datacatalog_900x.gif) | **Data Catalog:** Data ingestion and cataloging in a TAP platform is easy. With just a few clicks or commands you can ingest data once, schedule recurring data ingestion, work with streaming data or quickly find existing data sets. |
 | **Model Catalog:** Store models and allow creating REST endpoints to use models within applications.  | ![](/images/UI_modelcatalog_900x.gif) |
 | ![](/images/UI_appcatalog_900x.gif)  | **Applications Catalog:** Build, upload, run and repurpose any application to show streaming data, predictive analytics results, or take advantage of new IOT device output all from the TAP Applications Catalog. |
