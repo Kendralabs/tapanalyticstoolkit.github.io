@@ -1,5 +1,5 @@
 ---
-title: TAP Documentation
+title: Documentation
 keywords: Trusted Analytics Platform
 tags:
   - Overview
