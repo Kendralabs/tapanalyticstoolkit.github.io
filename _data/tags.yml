@@ -9,6 +9,7 @@ allowed-tags:
   - Streaming_Data
   - Building_Analytics
   - Sparktk
+  - H2O
   - Scikit_learn
   - Jupyter
   - Model_Deployment
@@ -25,6 +26,6 @@ allowed-tags:
   - Backup_Restore
   - Administration
   - Platform_Deployment
-  - Reference Information
+  - Reference_Information
   - Contributing
   - Overview
