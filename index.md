@@ -30,23 +30,33 @@ Jump right in by trying one of our use case examples, or visit our [community si
 
 TAP includes an intuitive user interface carefully designed around a data science and  application development collaborative workflow.  
 
-**Services Marketplace:** The Trusted Analytics Platform offers a variety of services for optimized cloud computing. Services include software to enable data analytics, app development and reliable system monitoring.
+###Services Marketplace
 
-<img src="/images/UI_marketplace_900x.gif" width="70%">
+The Trusted Analytics Platform offers a variety of services for optimized cloud computing. Services include software to enable data analytics, app development and reliable system monitoring.
 
-**Data Catalog:** Data ingestion and cataloging in a TAP platform is easy. With just a few clicks or commands you can ingest data once, schedule recurring data ingestion, work with streaming data or quickly find existing data sets.
+<img src="/images/UI_marketplace_900x.gif" width="80%">
 
-<img src="/images/UI_datacatalog_900x.gif" width="70%">
+###Data Catalog 
 
-**Model Catalog:** Store models and allow creating REST endpoints to use models within applications.
+Data ingestion and cataloging in a TAP platform is easy. With just a few clicks or commands you can ingest data once, schedule recurring data ingestion, work with streaming data or quickly find existing data sets.
 
-<img src="/images/UI_modelcatalog_900x.gif" width="70%">
+<img src="/images/UI_datacatalog_900x.gif" width="80%">
 
-**Applications Catalog:** Build, upload, run and repurpose any application to show streaming data, predictive analytics results, or take advantage of new IOT device output all from the TAP Applications Catalog.
+###Model Catalog
 
-<td width="50%"><img src="/images/UI_appcatalog_900x.gif" width="70%">
+Store models and allow creating REST endpoints to use models within applications.
 
-**Platform Administration:** Monitor your cloud service, keep track of user permissions for added security, ensure your platform is always running smoothly with TAP’s easy to use interface.
+<img src="/images/UI_modelcatalog_900x.gif" width="80%">
 
-<img src="/images/UI_platformadmin_900x.gif" width="70%">
+###Applications Catalog
+
+Build, upload, run and repurpose any application to show streaming data, predictive analytics results, or take advantage of new IOT device output all from the TAP Applications Catalog.
+
+<td width="50%"><img src="/images/UI_appcatalog_900x.gif" width="80%">
+
+###Platform Administration
+
+Monitor your cloud service, keep track of user permissions for added security, ensure your platform is always running smoothly with TAP’s easy to use interface.
+
+<img src="/images/UI_platformadmin_900x.gif" width="80%">
 
