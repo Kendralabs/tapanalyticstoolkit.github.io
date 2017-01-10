@@ -7,6 +7,7 @@ allowed-tags:
   - Data_Import_SQL
   - Data_Import_Amazon_S3
   - Streaming_Data
+  - Building_Analytics
   - Sparktk
   - Scikit_learn
   - Jupyter
