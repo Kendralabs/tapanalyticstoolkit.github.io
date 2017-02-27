@@ -3,9 +3,9 @@
 TAP ATK documentation is created using: 
 
 - GitHub for page content editing and version control 
-- Jekyll site theme, templates, look-and-feel, and navigation *content* 
-- Heroku for pushing the content to the GitHub Pages site (tapanalyticstoolkit/tapanalyticstoolkit.github.io) 
+- Jekyll for site theme, templates, look-and-feel, and navigation *text/links* 
+- Heroku for pushing the content to the GitHub Pages site at tapanalyticstoolkit/tapanalyticstoolkit.github.io
 
-Prose.io is targetted for incorporation to provide a layer of WYSIWYG editing capability (alternative to GitHub) and to hide some of the GitHub machinations related to version control. 
+We plan to incorporate Prose.io to provide a level of WYSIWYG page editing capability (as an alternative to GitHub) and to hide much of the GitHub version control machinations. 
 
 For instructions on updating the theme chosen for this documentation visit: [http://idratherbewriting.com/documentation-theme-jekyll/](http://idratherbewriting.com/documentation-theme-jekyll/) 
