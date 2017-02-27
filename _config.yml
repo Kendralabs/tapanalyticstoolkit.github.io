@@ -2,16 +2,16 @@
 output: web
 # this property is useful for conditional filtering of content that is separate from the PDF.
 
-topnav_title: Trusted Analytics Platform
+topnav_title: TAP Analytics Toolkit (ATK) Documentation
 # this appears on the top navigation bar next to the home button
 
-site_title: Trusted Analytics Platform (TAP) Documentation
+site_title: TAP Analytics Toolkit (ATK) Documentation
 # this appears in the html browser tab for the site title (seen mostly by search engines, not users)
 
-company_name: Trusted Analytics Platform
+company_name: TAP ATK
 # this appears in the footer
 
-github_editme_path: trustedanalytics/tap-docs/tree/master/pages/
+github_editme_path: tapanalyticstoolkit/tapanalyticstoolkit.github.io/tree/master/pages/
 # if you're using Github, provide the basepath to the branch you've created for reviews, following the sample here. if not, leave this value blank.
 
 disqus_shortname: 
@@ -26,12 +26,12 @@ port: 4005
 exclude: [vendor, .idea/, .gitignore]
 # these are the files and directories that jekyll will exclude from the build
 
-feedback_subject_line: TAP Documentation Site
+feedback_subject_line: TAP ATK Documentation Site
 
-feedback_email: trustedanalytics@gmail.com
+feedback_email: daniel.e.smith@intel.com
 # used as a contact email for the Feedback link in the top navigation bar
 
-feedback_disable: true
+feedback_disable: false
 # if you uncomment the previous line, the Feedback link gets removed
 
 # feedback_text: "Need help?"
