@@ -49,7 +49,7 @@ entries:
     - title: spark-tensorflow-connector
       externalurl: https://github.com/tapanalyticstoolkit/spark-tensorflow-connector
       output: web, pdf
-    -title: tensorsets
+    - title: tensorsets
       externalurl: https://github.com/tapanalyticstoolkit/tensorsets
       output: web, pdf
   - title: Common
