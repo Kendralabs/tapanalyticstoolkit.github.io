@@ -3,7 +3,7 @@
 entries:
 - title: sidebar
   product: Version
-  version: 0.8.0
+  version: 0.1.0
   folders:
   
   - title:
@@ -19,195 +19,46 @@ entries:
       output: pdf
       type: frontmatter
       
-  - title: Use Case Examples
+  - title: Analytics
     output: web, pdf
     folderitems:
-    
-    - title: Dataset Reader
-      external_url: https://community.trustedanalytics.org/docs/DOC-1042
+    - title: Spark-tk Library
+      url: /sparktk_landing.html
       output: web, pdf
-    - title: Space Shuttle
-      url: /examples_spaceshuttle.html
+    - title: daal-tk Library
+      url: /daaltk_landing.html
       output: web, pdf
-    - title: Data Ingestion Through Kafka
-      url: /examples_dataingestkafka.html
-      output: web, pdf
-      
-    - title: Enable IOT
-      url: /examples_enableiot.html
-      output: web, pdf
-      
-  - title: Account Access
-    output: web, pdf
-    
-    folderitems:
-    - title: Accessing Your Account
-      url: /acctaccess_accessing.html
-      output: web, pdf
-  - title: Marketplace
-    output: web, pdf
-    folderitems:
-    - title: Creating a Service Instance
-      url: /marketplace_createinstance.html
-      output: web, pdf
-    - title: Services Available
-      url: /marketplace_services.html
-      output: web, pdf
-      
-  - title: Data Ingestion
-    output: web, pdf
-    folderitems:
-    - title: Data Catalog
-      url: /DataIngestion/dataingest_datacatalog.html
-      output: web, pdf
-      
-      subfolders:
-      - title: SQL Import Pages
-        output: web, pdf  
-        subfolderitems:
-          
-        - title: SQL Import Scheduler
-          url: /dataingestion/dataingest_sqlimport_scheduler.html
-          output: web, pdf
-          
-  - title: Building Analytics
-    output: web, pdf
-    folderitems:
-    - title: SparkTK 
-      url: /buildanalytics_sparktk.html
-      output: web, pdf
-    - title: H2O Integration with TAP
-      url: /buildanalytics_h2o.html
-      output: web, pdf
-    - title: Sci-kit Learn Intesgration with TAP
-      url: /buildanalytics_scikitlearn.html
-      output: web, pdf
-  - title: Model Publishing
-    output: web, pdf
-    folderitems:
-    - title: New pages
-      url: /models_newpages.html
-      output: web, pdf
-    - title: MAR File Format
-      url: /models_marformat.html
-      output: web, pdf
-  - title: TAP Integration
-    output: web, pdf
-    folderitems:
-    - title: REST APIs
-      url: /integration_restapis.html
-      output: web, pdf
-  - title: Application Deployment
-    output: web, pdf
-    folderitems:
-    - title: Deploying your First Application
-      url: /appdev_deployapp.html
-      output: web, pdf
-    - title: Tips and Tricks for Java
-      url: /appdev_tipstricks.html
-      output: web, pdf
-    - title: Binding Apps to Services
-      url: /appdev_bindingapps.html
-      output: web, pdf
-    - title: Sharing Apps
-      url: /appdev_sharingapps.html
-      output: web, pdf
-      
-  - title: Troubleshooting
-    output: web, pdf
-    folderitems:
-    - title: FAQs
-      url: /troubleshoot_faqs.html
-      output: web, pdf
-      
-    - title: System Logs
-      url: /troubleshoot_systemlogs.html
-      output: web, pdf
-      
-    - title: Components and versions
-      url: /troubleshoot_components.html
-      output: web, pdf 
-      
-    - title: Community Support
-      external_url: https://community.trustedanalytics.org/community/TAP-support
-      output: web, pdf 
-   
-  - title: Platform Administration
-    output: web, pdf
-    
-    folderitems:
-    - title: Managing Orgs and Users
-      url: /administration_manageorgsusers.html
-      output: web, pdf
-      
-    - title: Inviting User to a TAP Instance
-      url: /administration_inviteusers.html
-      output: web, pdf
-      
-  - title: TAP Platform Deployment
-    output: web, pdf
-    
-    folderitems:
-    - title: Deployment Overview
-      url: /deployment_overview.html
-      output: web
-      
-    - title: TAP Sources and Binaries
-      url: /deployment_sourcesbinaries.html
-      output: web
-      subfolders:
-      - title: Deployment Procedures
-        output: web
-        subfolderitems:
 
-        - title: Platform Deployment on AWS
-          url: /deployment_procedures_aws.html
-          output: web
-      
-        - title: Platform Deployment on Baremetal
-          url: /deployment_procedures_baremetal.html
-          output: web
-      
-    - title: Building Artifacts from Sources
-      url: /deployment_buildfromsources.html
-      output: web
-      
-    - title: Post Deployment Tests
-      url: /deployment_postdeploytests.html
-      output: web
-      
-    - title: Migrating Data from 0.7 to 0.8
-      url: /deployment_migratedata.html
-      output: web
-  
-  - title: TAP Reference Docs
+- title: Models and Scoring
     output: web, pdf
-    
     folderitems:
-    - title: TAP CLI Reference Page
-      url: /reference_cli.html
-      output: web
-      
-  - title: Contributing to TAP
-    output: web, pdf
-    
-    folderitems:
-    - title: Application Development
-      url: /contributing_appdev.html
-      output: web
-      
-    - title: Development Environment Setup
-      url: /contributing_devenvironment.html
-      output: web
+    - title: modelarchiver
+      external_url: https://github.com/tapanalyticstoolkit/modelarchiver
+      output: web, pdf
+    - title: model-scoring-java
+      external_url: https://github.com/tapanalyticstoolkit/model-scoring-java
+      output: web, pdf
+    - title: scoring-pipelines
+      external_url: https://github.com/tapanalyticstoolkit/model-scoring-java
+      output: web, pdf
      
-    - title: Adding New Components to TAP Deployment
-      url: /contributing_addnew.html
-      output: web
-      
-    - title: Console Design
-      url: /contributing_consoledesign.html
-      output: web
-      
-    - title: TAP Architecture
-      url: /contributing_architecture.html
-      output: web
+- title: Spark Jupyter Examples
+    external_url: https://github.com/tapanalyticstoolkit/spark-tk-jupyter
+    output: web, pdf
+
+- title: TensorFlow
+    output: web, pdf
+    folderitems:
+    - title: spark-tensorflow-connector
+      externalurl: https://github.com/tapanalyticstoolkit/spark-tensorflow-connector
+      output: web, pdf
+    -title: tensorsets
+      externalurl: https://github.com/tapanalyticstoolkit/tensorsets
+      output: web, pdf
+    
+- title: Common
+    output: web, pdf
+    folderitems:
+    - title: tap-root
+      external_url: https://github.com/tapanalyticstoolkit/tap-root
+      output: web, pdf
