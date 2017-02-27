@@ -28,8 +28,7 @@ entries:
     - title: daal-tk Library
       url: /daaltk_landing.html
       output: web, pdf
-
-- title: Models and Scoring
+  - title: Models and Scoring
     output: web, pdf
     folderitems:
     - title: modelarchiver
@@ -41,12 +40,10 @@ entries:
     - title: scoring-pipelines
       external_url: https://github.com/tapanalyticstoolkit/model-scoring-java
       output: web, pdf
-     
-- title: Spark Jupyter Examples
+  - title: Spark Jupyter Examples
     external_url: https://github.com/tapanalyticstoolkit/spark-tk-jupyter
     output: web, pdf
-
-- title: TensorFlow
+  - title: TensorFlow
     output: web, pdf
     folderitems:
     - title: spark-tensorflow-connector
@@ -55,8 +52,7 @@ entries:
     -title: tensorsets
       externalurl: https://github.com/tapanalyticstoolkit/tensorsets
       output: web, pdf
-    
-- title: Common
+  - title: Common
     output: web, pdf
     folderitems:
     - title: tap-root
