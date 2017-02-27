@@ -1,6 +1,6 @@
 ---
 title: Documentation
-keywords: Trusted Analytics Platform
+keywords: TAP ATK
 tags:
   - Overview
 sidebar: TAPv080_sidebar
@@ -21,41 +21,3 @@ The Trusted Analytics Platform is dedicated to ensuring the security and integri
 ##  Release Notes
 
 You can find a short list of exciting additions and known bugs for the latest release on our [Release Notes](Release_notes.mdnote) page.
-
-##  Getting Started and FAQ's
-
-Jump right in by trying one of our use case examples, or visit our [community site](https://community.trustedanalytics.org/welcome) for workshops, tutorials and FAQ's that will help you through the TAP workflow.
-
-## UI Walkthrough
-
-TAP includes an intuitive user interface carefully designed around a data science and  application development collaborative workflow.  
-
-**Services Marketplace**
-
-The Trusted Analytics Platform offers a variety of services for optimized cloud computing. Services include software to enable data analytics, app development and reliable system monitoring.
-
-<img src="/images/UI_marketplace_900x.gif" width="80%"/>
-
-**Data Catalog**
-
-Data ingestion and cataloging in a TAP platform is easy. With just a few clicks or commands you can ingest data once, schedule recurring data ingestion, work with streaming data or quickly find existing data sets.
-
-<img src="/images/UI_datacatalog_900x.gif" width="80%"/>
-
-**Model Catalog**
-
-Store models and allow creating REST endpoints to use models within applications.
-
-<img src="/images/UI_modelcatalog_900x.gif" width="80%"/>
-
-**Applications Catalog**
-
-Build, upload, run and repurpose any application to show streaming data, predictive analytics results, or take advantage of new IOT device output all from the TAP Applications Catalog.
-
-<img src="/images/UI_appcatalog_900x.gif" width="80%"/>
-
-**Platform Administration**
-Monitor your cloud service, keep track of user permissions for added security, ensure your platform is always running smoothly with TAP’s easy to use interface.
-
-<img src="/images/UI_platformadmin_900x.gif" width="80%"/>
-
