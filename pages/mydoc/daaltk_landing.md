@@ -1,6 +1,6 @@
 ---
 title: daal-tk landing page
-keywords: daal-tk library daal
+keywords: daal-tk analytics library DAAL
 last_updated: 'February, 2017'
 tags:
   - daal-tk analytics
