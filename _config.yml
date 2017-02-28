@@ -2,7 +2,7 @@
 output: web
 # this property is useful for conditional filtering of content that is separate from the PDF.
 
-topnav_title: Analytics Toolkit (ATK)
+topnav_title: ATK
 # this appears on the top navigation bar next to the home button
 
 site_title: Analytics Toolkit (ATK)
@@ -26,7 +26,7 @@ port: 4005
 exclude: [vendor, .idea/, .gitignore]
 # these are the files and directories that jekyll will exclude from the build
 
-feedback_subject_line: TAP ATK Documentation Site
+feedback_subject_line: TAP ATK Site
 
 feedback_email: daniel.e.smith@intel.com
 # used as a contact email for the Feedback link in the top navigation bar
