@@ -23,10 +23,10 @@ entries:
     output: web, pdf
     folderitems:
     - title: Spark-tk Library
-      url: pages/mydoc/sparktk_landing.html
+      url: pages/mydoc/sparktk_landing
       output: web, pdf
     - title: daal-tk Library
-      url: pages/mydoc/daaltk_landing.html
+      url: pages/mydoc/daaltk_landing
       output: web, pdf
   - title: Models and Scoring
     output: web, pdf
@@ -38,7 +38,7 @@ entries:
       external_url: https://github.com/tapanalyticstoolkit/model-scoring-java
       output: web, pdf
     - title: scoring-pipelines
-      external_url: https://github.com/tapanalyticstoolkit/model-scoring-java
+      external_url: https://github.com/tapanalyticstoolkit/scoring-pipelines
       output: web, pdf
   - title: Examples
     output: web, pdf
