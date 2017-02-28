@@ -1,18 +1,18 @@
 ## Topnav single links
 ## if you want to list an external url, use external_url instead of url. the theme will apply a different link base.
-## topnav:
-## - title: Topnav
-##   items:
-##     - title: Community
-##       url: https://community.trustedanalytics.org/welcome
+topnav:
+- title: Topnav
+  items:
+    - title: Community
+      url: https://community.trustedanalytics.org/welcome
 
 ## Topnav dropdowns
-## topnav_dropdowns:
-## - title: Topnav dropdowns
-##   folders:
-##     - title: Previous Releases
-##       folderitems:
-##         - title: 0.1.0 (Latest)
-##           url: https://tapanalyticstoolkit.github.io/
-##         - title: 0.2.0
-##           url: https://tapanalyticstoolkit.github.io/
+topnav_dropdowns:
+- title: Topnav dropdowns
+  folders:
+    - title: Previous Releases
+      folderitems:
+        - title: 0.1.0 (Latest)
+          url: https://tapanalyticstoolkit.github.io/
+        - title: 0.2.0
+          url: https://tapanalyticstoolkit.github.io/
