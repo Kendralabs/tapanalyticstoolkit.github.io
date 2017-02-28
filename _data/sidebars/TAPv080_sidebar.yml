@@ -23,10 +23,10 @@ entries:
     output: web, pdf
     folderitems:
     - title: Spark-tk Library
-      url: pages/mydoc/sparktk_landing
+      url: /pages/mydoc/sparktk_landing
       output: web, pdf
     - title: daal-tk Library
-      url: pages/mydoc/daaltk_landing
+      url: /pages/mydoc/daaltk_landing
       output: web, pdf
   - title: Models and Scoring
     output: web, pdf
