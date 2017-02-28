@@ -43,7 +43,7 @@ entries:
   - title: Examples
     output: web, pdf
     folderitems:
-    - Jupyter Spark Examples
+    - title: Jupyter Spark Examples
       external_url: https://github.com/tapanalyticstoolkit/spark-tk-jupyter
       output: web, pdf
   - title: TensorFlow
