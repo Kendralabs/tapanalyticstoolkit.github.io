@@ -1,5 +1,5 @@
 ---
-title: Spark-tk landing
+title: Spark-tk landing page
 keywords: Spark-tk library
 last_updated: 'February, 2017'
 tags:
