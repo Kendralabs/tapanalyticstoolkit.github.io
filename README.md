@@ -1,6 +1,5 @@
-## TAP ATK Documentation 
-
-TAP ATK documentation is created using: 
+## TAP ATK GitHub .io Site
+Site structure and content is created using: 
 
 - GitHub for basic page editing and version control 
 - Jekyll for site theme, templates, look-and-feel, and navigation *text/links* 
