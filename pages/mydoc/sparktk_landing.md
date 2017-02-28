@@ -14,4 +14,6 @@ published: true
 
 ## Spark-tk  
 
-**Spark-tk:** is an analytics library that enhances the Spark experience by providing a rich, easy-to-use API for Python and Scala. The library supports Machine Learning capabilities and other operations, for example, working with DICOM images. <br>[https://github.com/tapanalyticstoolkit/spark-tk](https://github.com/tapanalyticstoolkit/spark-tk) <br>
+**Spark-tk:** is an analytics library that enhances the Spark experience by providing a rich, easy-to-use API for Python and Scala. The library supports Machine Learning capabilities and other operations, for example, working with DICOM images.  
+
+Spark-tk repo: [https://github.com/tapanalyticstoolkit/spark-tk](https://github.com/tapanalyticstoolkit/spark-tk)
