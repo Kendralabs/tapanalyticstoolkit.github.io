@@ -50,10 +50,10 @@ entries:
     output: web, pdf
     folderitems:
     - title: spark-tensorflow-connector
-      externalurl: https://github.com/tapanalyticstoolkit/spark-tensorflow-connector
+      external_url: https://github.com/tapanalyticstoolkit/spark-tensorflow-connector
       output: web, pdf
     - title: tensorsets
-      externalurl: https://github.com/tapanalyticstoolkit/tensorsets
+      external_url: https://github.com/tapanalyticstoolkit/tensorsets
       output: web, pdf
   - title: Common
     output: web, pdf
