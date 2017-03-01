@@ -20,4 +20,4 @@ TAP ATK includes the following:
 - Jupyter notebook with Spark-tk examples
 - Capabilities for working with TensorFlow
 
-Explore these toolkit capabilities by using the navigation menu on the *left* or by walking through the project repos at: [https://github.com/tapanalyticstoolkit](https://github.com/tapanalyticstoolkit)
+Explore these toolkit capabilities by using the *navigation menu* on the left or by *walking through the project repos* at: [https://github.com/tapanalyticstoolkit](https://github.com/tapanalyticstoolkit)
