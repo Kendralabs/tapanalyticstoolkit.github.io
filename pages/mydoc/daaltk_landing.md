@@ -3,7 +3,7 @@ title: daal-tk analytics
 keywords: daal-tk analytics library DAAL
 last_updated: 'February, 2017'
 tags:
-  - daal-tk, analytics, library
+  -
 summary: >-
   daal-tk analytics
 sidebar: mydoc_sidebar
