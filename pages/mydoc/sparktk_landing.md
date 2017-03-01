@@ -1,11 +1,11 @@
 ---
 title: Spark-tk analytics
 keywords: Spark-tk library
-last_updated: 'February, 2017'
+last_updated: 'March, 2017'
 tags:
-  - spark-tk, analytics, library
+  - spark-tk
 summary: >-
-  Spark-tk, analytics, library
+  Spark-tk analytics
 sidebar: mydoc_sidebar
 permalink: sparktk_landing.html
 folder: mydoc
