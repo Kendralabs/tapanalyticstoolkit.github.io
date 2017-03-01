@@ -2,7 +2,7 @@
 title: TAP ATK Home
 keywords: TAP ATK
 tags:
-  - overview, home, summary
+  - overview home summary
 sidebar: TAPv080_sidebar
 permalink: index.html
 summary: >-
