@@ -3,7 +3,7 @@ title: Spark-tk analytics
 keywords: Spark-tk library
 last_updated: 'March, 2017'
 tags:
-  - spark-tk
+  - 
 summary: >-
   Spark-tk analytics
 sidebar: mydoc_sidebar
