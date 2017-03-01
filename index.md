@@ -6,7 +6,7 @@ tags:
 sidebar: TAPv080_sidebar
 permalink: index.html
 summary: >-
-  Welcome to the TAP ATK version 0.1 technical documentation.
+  Welcome to TAP ATK!
 published: true
 ---
 
