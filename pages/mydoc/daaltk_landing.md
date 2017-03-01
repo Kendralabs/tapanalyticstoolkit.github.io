@@ -1,9 +1,7 @@
 ---
 title: daal-tk analytics
 keywords: daal-tk analytics library DAAL
-last_updated: 'February, 2017'
-tags:
-  -
+last_updated: 'March, 2017'
 summary: >-
   daal-tk analytics
 sidebar: mydoc_sidebar
