@@ -2,8 +2,6 @@
 title: Spark-tk analytics
 keywords: Spark-tk library
 last_updated: 'March, 2017'
-tags:
-  - 
 summary: >-
   Spark-tk analytics
 sidebar: mydoc_sidebar
