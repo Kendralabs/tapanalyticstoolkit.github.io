@@ -1,31 +1,18 @@
 allowed-tags:
-  - Use_Case_Examples
-  - Account_Access
-  - Marketplace
-  - Data_Ingestion
-  - Data_Catalog
-  - Data_Import_SQL
-  - Data_Import_Amazon_S3
-  - Streaming_Data
-  - Building_Analytics
-  - Sparktk
-  - H2O
-  - Scikit_learn
+  - DAAL
+  - daaltk
+  - daal-tk
+  - Examples
+  - Home
+  - Introduction
+  - Java
   - Jupyter
-  - Model_Deployment
-  - Model_Catalog
-  - mar_file_format
-  - Model_Scoring
-  - Scoring_Engine
-  - Scoring_Pipeline
-  - Integration_APIs
-  - REST_APIs
-  - Application_Deployment
-  - Maintenance
-  - System_Logs
-  - Backup_Restore
-  - Administration
-  - Platform_Deployment
-  - Reference_Information
-  - Contributing
+  - Models
   - Overview
+  - Pipeline
+  - Scoring
+  - Spark
+  - Sparktk
+  - Spark-tk
+  - Summary
+  - TensorFlow
