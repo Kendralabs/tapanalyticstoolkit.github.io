@@ -4,7 +4,7 @@ keywords: daal-tk analytics library DAAL
 last_updated: 'March, 2017'
 summary: >-
   daal-tk analytics
-sidebar: mydoc_sidebar
+sidebar: TAPv080_sidebar
 permalink: daaltk_landing.html
 folder: mydoc
 published: true
