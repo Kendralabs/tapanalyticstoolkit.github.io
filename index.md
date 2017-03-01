@@ -1,8 +1,6 @@
 ---
 title: TAP ATK Home
 keywords: TAP ATK
-tags:
-  - 
 sidebar: TAPv080_sidebar
 permalink: index.html
 summary: >-
