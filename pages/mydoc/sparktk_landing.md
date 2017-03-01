@@ -5,7 +5,7 @@ last_updated: 'February, 2017'
 tags:
   - spark analytics library
 summary: >-
-  Spark-tk analytics library
+  Spark-tk, analytics, library
 sidebar: mydoc_sidebar
 permalink: sparktk_landing.html
 folder: mydoc
