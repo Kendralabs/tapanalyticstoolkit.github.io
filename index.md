@@ -13,7 +13,7 @@ published: true
 
 The TAP Analytics Toolkit (ATK) is an open-source SDK that makes Machine Learning and Deep Learning tools broadly available to data scientists working with big data.
 
-TAP ATK is located at: https://github.com/tapanalyticstoolkit
+TAP ATK is located at: [https://github.com/tapanalyticstoolkit](https://github.com/tapanalyticstoolkit)
 
 TAP ATK includes the following:
 
