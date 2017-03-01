@@ -1,12 +1,12 @@
 ---
-title: Home
+title: TAP ATK Home
 keywords: TAP ATK
 tags:
-  - Overview
+  - overview, home, summary
 sidebar: TAPv080_sidebar
 permalink: index.html
 summary: >-
-  Welcome to TAP ATK!
+  TAP ATK overview
 published: true
 ---
 
