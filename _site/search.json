@@ -74,36 +74,6 @@
 
 
 {
-"title": "Building Analytics",
-"tags": "Building Analytics",
-"keywords": "building analytics on TAP",
-"url": "buildanalytics_h2o.html",
-"summary": "Insert the summary paragraph here.  To edit the summary you must edit the meta data for this post."
-},
-
-
-
-{
-"title": "Building Analytics",
-"tags": "Building Analytics",
-"keywords": "building analytics on TAP",
-"url": "buildanalytics_scikitlearn.html",
-"summary": "Insert the summary paragraph here.  To edit the summary you must edit the meta data for this post."
-},
-
-
-
-{
-"title": "Building Analytics",
-"tags": "Building Analytics",
-"keywords": "building analytics on TAP",
-"url": "buildanalytics_sparktk.html",
-"summary": "Insert the summary paragraph here.  To edit the summary you must edit the meta data for this post."
-},
-
-
-
-{
 "title": "Contributing to TAP",
 "tags": "Contributing",
 "keywords": "contributing to tap add new components",
