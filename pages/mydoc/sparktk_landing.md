@@ -8,6 +8,7 @@ sidebar: TAPv080_sidebar
 permalink: sparktk_landing.html
 folder: mydoc
 published: true
+toc: false
 ---
 
 ## Spark-tk  
