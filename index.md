@@ -7,6 +7,7 @@ permalink: index.html
 summary: >-
   TAP ATK overview
 published: true
+toc: false
 ---
 
 <!-- home page content -->
