@@ -7,12 +7,12 @@
 ##      url: https://community.trustedanalytics.org/welcome
 ##
 ## Topnav dropdowns
-topnav_dropdowns:
-- title: Topnav dropdowns
-  folders:
-    - title: Previous Releases
-      folderitems:
-        - title: 0.2.0 (Latest)
-          url: https://tapanalyticstoolkit.github.io/
-        - title: 0.1.0
-          url: https://tapanalyticstoolkit.github.io/
+##topnav_dropdowns:
+##- title: Topnav dropdowns
+##  folders:
+##    - title: Previous Releases
+##      folderitems:
+##        - title: 0.2.0 (Latest)
+##          url: https://tapanalyticstoolkit.github.io/
+##        - title: 0.1.0
+##          url: https://tapanalyticstoolkit.github.io/
