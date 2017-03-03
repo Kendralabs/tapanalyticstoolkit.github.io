@@ -2,8 +2,8 @@
 
 entries:
 - title: sidebar
-  product: ,
-  version: ,
+  product: Version
+  version: 0.2.0
   folders:
   
   - title:
