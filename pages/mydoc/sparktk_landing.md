@@ -4,7 +4,7 @@ keywords: Spark-tk library
 last_updated: 'March, 2017'
 summary: >-
   Spark-tk analytics
-sidebar: TAPv080_sidebar
+sidebar: TAP_ATK_v010_sidebar
 permalink: sparktk_landing.html
 folder: mydoc
 published: true
