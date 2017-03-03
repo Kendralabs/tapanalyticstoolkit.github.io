@@ -2,7 +2,7 @@
 title: TAP Analytics Toolkit
 keywords: TAP ATK
 last_updated: 'March, 2017'
-sidebar: TAPv080_sidebar
+sidebar: TAP_ATK_v010_sidebar
 permalink: index.html
 summary: >-
   TAP ATK overview
