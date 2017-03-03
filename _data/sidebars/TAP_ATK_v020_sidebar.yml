@@ -1,0 +1,66 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: sidebar
+  product: Version
+  version: 0.2.0
+  folders:
+  
+  - title:
+    output: pdf
+    type: frontmatter
+    folderitems:
+    - title:
+      url: /titlepage
+      output: pdf
+      type: frontmatter
+    - title:
+      url: /tocpage
+      output: pdf
+      type: frontmatter
+      
+  - title: Analytics
+    output: web, pdf
+    folderitems:
+    - title: Spark-tk Library
+      url: /sparktk_landing.html
+      output: web, pdf
+    - title: daal-tk Library
+      url: /daaltk_landing.html
+      output: web, pdf
+  - title: Models and Scoring
+    output: web, pdf
+    folderitems:
+    - title: modelarchiver
+      external_url: https://github.com/tapanalyticstoolkit/modelarchiver
+      output: web, pdf
+    - title: model-scoring-java
+      external_url: https://github.com/tapanalyticstoolkit/model-scoring-java
+      output: web, pdf
+    - title: model-scoring-python
+      external_url: https://github.com/tapanalyticstoolkit/model-scoring-python
+      output: web, pdf
+    - title: scoring-pipelines
+      external_url: https://github.com/tapanalyticstoolkit/scoring-pipelines
+      output: web, pdf
+  - title: Examples
+    output: web, pdf
+    folderitems:
+    - title: Jupyter Spark Examples
+      external_url: https://github.com/tapanalyticstoolkit/spark-tk-jupyter
+      output: web, pdf
+  - title: TensorFlow
+    output: web, pdf
+    folderitems:
+    - title: spark-tensorflow-connector
+      external_url: https://github.com/tapanalyticstoolkit/spark-tensorflow-connector
+      output: web, pdf
+    - title: tensorsets
+      external_url: https://github.com/tapanalyticstoolkit/tensorsets
+      output: web, pdf
+  - title: Common
+    output: web, pdf
+    folderitems:
+    - title: tap-root
+      external_url: https://github.com/tapanalyticstoolkit/tap-root
+      output: web, pdf
